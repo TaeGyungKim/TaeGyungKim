@@ -1,9 +1,8 @@
 
 ## Studying...
 
-|Langauge|
+|Golang|
 |:---:|
-|golang|
 |UnityEngine|
 |MySQL|
 

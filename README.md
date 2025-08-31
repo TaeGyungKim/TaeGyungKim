@@ -1,5 +1,5 @@
 
-## Learning...
+## Studying...
 
 |Langauge|
 |:---:|
